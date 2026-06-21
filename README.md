@@ -63,7 +63,7 @@ honeypot-dashboard/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Cyber-Honeypot-Dashboard.git
+git clone https://github.com/rkumardeepti/honeypot-dashboard.git
 cd honeypot-dashboard
 ```
 
